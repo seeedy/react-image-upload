@@ -1,4 +1,0 @@
-
-# HTTPS  www.seoberlino.com
-User-agent: *
-Sitemap: https://www.seoberlino.com/sitemap.xml
